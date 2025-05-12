@@ -272,7 +272,7 @@ function checkBotCollisions() {
     if (d < 30) {
       alert("Game Over: Hit a bot!");
       noLoop();
-    }
+    
   }
 }
 
